@@ -1,0 +1,3 @@
+Web Weavers Cybersleuths Help Make Java Safe for Browsers
+May 11, 2011
+It was a game only a hacker could love. In September of last year, Drew Dean and Danae Schutz, graduate students in Princeton University's department of computer science, decided that it would be fun to try to find errors, or bugs, in a test version of some new Internet software from Sun Microsystems Inc.. Clockwise from top left: Felts Domingo Quintanilla, Drusilla Deandra, Danae Schutz and Edwina Sauls
